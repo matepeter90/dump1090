@@ -59,6 +59,8 @@
 # define MODES_DUMP1090_VARIANT     "dump1090-mutability"
 #endif
 
+#define ENABLE_WEBSERVER 1
+
 // ============================= Include files ==========================
 
 #ifndef _WIN32
